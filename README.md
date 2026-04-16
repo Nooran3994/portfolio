@@ -1,52 +1,54 @@
-# 👋 Portfolio
+# Portfolio
 
-Welcome to my portfolio! Here you'll find a showcase of my projects and work.
+This README provides an overview of my projects.
 
-## About Me
-Hello! I'm Nooran, a passionate developer with a keen interest in creating dynamic and interactive web applications. I love solving problems, learning new technologies, and collaborating with other developers.
+## Project 1: SCAAI_RUN
+- **Description**: A project that focuses on advanced running analytics.
+- **Link**: [SCAAI_RUN](http://example.com/scaai_run)
+- **Technology Stack**: Python, Django, PostgreSQL
+- **Status**: Completed
 
-## 🛠️ Tech Stack
-- **Languages**: JavaScript, Python, Java, C++
-- **Frontend**: React, HTML, CSS
-- **Backend**: Node.js, Express.js, Django
-- **Databases**: MongoDB, PostgreSQL
-- **Tools**: Git, Docker, VS Code, GitHub
+## Project 2: Kabati_Fly-over_School
+- **Description**: An initiative to provide educational resources via drone technology.
+- **Link**: [Kabati_Fly-over_School](http://example.com/kabati_fly_over_school)
+- **Technology Stack**: Java, Spring Boot, MySQL
+- **Status**: In Progress
 
-## 📁 Featured Projects
-Here are some of the projects I've worked on:
+## Project 3: AVALANCHE-DRIVING-SCHOOL
+- **Description**: An online platform for learning driving skills.
+- **Link**: [AVALANCHE-DRIVING-SCHOOL](http://example.com/avalanche_driving_school)
+- **Technology Stack**: React, Node.js, MongoDB
+- **Status**: Completed
 
-### Project 1: [Project Name]
-Brief description of what this project does and the technologies used.
-- **Stack**: React, Node.js, MongoDB
-- **Repository**: [Link to repo]
-- **Live Demo**: [Link to demo]
+## Project 4: Coding-Agents
+- **Description**: A repository of coding challenges and solutions.
+- **Link**: [Coding-Agents](http://example.com/coding_agents)
+- **Technology Stack**: C#, ASP.NET, SQL Server
+- **Status**: Completed
 
-### Project 2: [Project Name]
-Brief description of what this project does and the technologies used.
-- **Stack**: Django, PostgreSQL, Python
-- **Repository**: [Link to repo]
-- **Live Demo**: [Link to demo]
+## Project 5: Ant
+- **Description**: A project management tool designed for simplification.
+- **Link**: [Ant](http://example.com/ant)
+- **Technology Stack**: Ruby on Rails, SQLite
+- **Status**: In Progress
 
-### Project 3: [Project Name]
-Brief description of what this project does and the technologies used.
-- **Stack**: JavaScript, HTML, CSS
-- **Repository**: [Link to repo]
-- **Live Demo**: [Link to demo]
+## Project 6: Atc
+- **Description**: A traffic control system simulation.
+- **Link**: [Atc](http://example.com/atc)
+- **Technology Stack**: C++, Qt
+- **Status**: Completed
 
-## 💼 Experience
-- Brief description of your professional experience
-- Key achievements and responsibilities
+## Project 7: Systemprompts
+- **Description**: A system prompt generator for various applications.
+- **Link**: [Systemprompts](http://example.com/systemprompts)
+- **Technology Stack**: JavaScript, Express.js
+- **Status**: Completed
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nooran3994&show_icons=true&theme=radical)
+## Project 8: Learn-Python-on-VS_code-IDE-Building-a-Project
+- **Description**: A guide for building projects in Python using VS Code.
+- **Link**: [Learn-Python-on-VS_code-IDE-Building-a-Project](http://example.com/learn_python_vs_code)
+- **Technology Stack**: Python
+- **Status**: Completed
 
-## 📫 Contact Information
-Feel free to reach out to me for any inquiries or collaboration opportunities!
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [@YourTwitterHandle]
-- **GitHub**: [github.com/Nooran3994](https://github.com/Nooran3994)
-
----
-
-**Thank you for visiting my portfolio!** Feel free to explore my repositories and reach out if you'd like to collaborate on any projects.
+## Conclusion
+This portfolio showcases the diversity of my projects and my expertise in different technologies.
